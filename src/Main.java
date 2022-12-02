@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Самостоятельная работа~");
+        System.out.println("Самостоятельная работа");
         double number1 = 5.573;
         double number2 = 5.622;
         int number = 10;
